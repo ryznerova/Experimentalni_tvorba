@@ -11,3 +11,13 @@ Moc jsem nepochopila tu projekci těsně před východem, kde bylo video s člov
 ![2](2.png)
 
 ![3](3.png)
+
+Do MidJourney jsem vložila tyto pojmy:
+
+### Shifted Reality
+
+![4](222.png)
+
+### Hyperreality
+
+![5](111.png)
