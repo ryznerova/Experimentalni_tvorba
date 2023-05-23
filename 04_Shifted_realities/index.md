@@ -4,7 +4,7 @@ Na této výstavě mi přišla nejvíce zajímavá projekce, kde bylo puštěno 
 
 Moc jsem nepochopila tu projekci těsně před východem, kde bylo video s člověkem, a to bylo převedeno do vlnění. 
 
-### Otázky položené ChatGPT
+## Otázky položené ChatGPT
 
 ![1](1.png)
 
@@ -12,7 +12,7 @@ Moc jsem nepochopila tu projekci těsně před východem, kde bylo video s člov
 
 ![3](3.png)
 
-Do MidJourney jsem vložila tyto pojmy:
+## Do MidJourney jsem vložila tyto pojmy:
 
 ### Shifted Reality
 
