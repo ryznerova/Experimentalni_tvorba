@@ -1,3 +1,5 @@
+# Všímám si
+
 Na tento úkol jsem použila projekt, který jsem vypracovávala pro architektonické studio.
 Jedná se dokumentaci urbanismu v malém městě Humpolec. Na fotkách a na mapách jsou znázorněné různé věci – mobiliář města, stav komunikace, druhy lamp a další.
 
