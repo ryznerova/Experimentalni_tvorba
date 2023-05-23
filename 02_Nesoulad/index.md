@@ -4,4 +4,4 @@ Pro tento úkol jsem zadala do MidJourney kombinaci jahody a kiwi a vznikla z to
 
 Je zajímavé, že mi vždycky vyjely varianty červeného chlupatého ovoce, ale nikdy mi nevyjela například zelené kiwi s jahodovým vnitřkem.
 
-![1](kiwi x strawberry.png)
+![1](kiwixstrawberry.png)
